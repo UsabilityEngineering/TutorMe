@@ -1,29 +1,50 @@
-# Team Name, Phase 1: User Inquiry and Inspection
+# TutorMe, Phase 1: User Inquiry and Inspection
+Jozzel Esqueda
+Peter Menzies
 
 ## Methods
 
-Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
+(A) Method: Surveys/Questionnaires
+(B) We used this method because it is easy, effecient, and low cost way to gather data on potential users.
+(C) Total: 18 Responses
 
 ## Findings
+![alt text](Screen Shot 2020-04-11 at 4.00.44 AM.png)
+![alt text](Screen Shot 2020-04-11 at 4.00.50 AM.png)
+![alt text](Screen Shot 2020-04-11 at 4.01.20 AM.png)
 
-For each method, describe the users you collected data from (demographics and how they represent your user base) and summarize the findings point-by-point (for example, the distribution of answers for a multiple-choice question). If you are researching existing software and/or competitor software, you may want to include pictures with call-outs that point out both important features and flaws within the interface.
+According to our pie charts, majority of our survey takers are young adults who are graduating from college soon who mostly have GPA’s ranging from 2.1-3.0 And prefer to pay $0 for tutoring services.
+
+![alt text](Screen Shot 2020-04-11 at 4.01.11 AM.png)
+
+Our bar charts indicate that the majority of our users prefer to be tutored individually plus they don’t have enough time to look for a tutor when needed.
+
+![alt text](Screen Shot 2020-04-11 at 9.06.59 PM.png)
+
+Our suggestions responses dictate that users want a quick and efficient way to finding a tutor without doing too much.
 
 ## Conclusions
 
-Discoveries derived from the method(s). For example, explain a requirement (e.g. “Task X needs to be accomplished with fewer steps. . . ”) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
+TutorMe should be an app where users sign in and according to their major and what classes they are currently taking, All available tutors on campus will pop up with the time slots in which they are free. 
+
+By making TutorMe an App, users will use less of their time searching for a tutor, instead they’d be able to click on the app, click on the class they need help in, and boom all available tutors will show up. Not only is this App free, but it will match you with tutors who have already taken the class you’re struggling with.
+
+These implementations are based on our suggestion responses.
 
 ## Caveats
 
-Considerations and/or limitations to the method(s) you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
+Because our sample size was not large enough to include students from other backgrounds/majors, TutorMe may not develop its full potential to being revolutionary.
 
-## Personas
+# Personas
 
-Provide each of your user personas, which represent (potential) users of your software; explain how you derived these personas from your user inquiry
+Persona 1: Trey
+
+Trey is a full-time student and works part-time on campus. He never really has free time unless if its the weekend. He is a senior at Chico State and cares about finishing with a strong GPA. 
+
+Because Trey is too busy with school and work Monday - Friday from 8AM-5PM, he has difficulty in finding help for his classes. Most of his classmates are no longer on campus by the time he’s free and really needs that person to person tutoring session in order to get the help he needs.
 
 ## Scenarios
 
-Identify the primary scenarios for your software and for each, include a description that explains who (of your personas) and what they want to do
+Trey has an exam in 2 days and needs further assistance with understanding some concepts before the test. He is unable to go to office hours because of schedule conflicts between school and work. He only has time after 6pm. He needs to find a tutor ASAP to help him get his questions answered.
 
-## Supplementary Materials
 
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc)
