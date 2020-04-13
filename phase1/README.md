@@ -1,25 +1,26 @@
 # TutorMe, Phase 1: User Inquiry and Inspection
-Jozzel Esqueda
-Peter Menzies
+
+* **Jozzel Esqueda**
+* **Peter Menzies**
 
 ## Methods
 
-(A) Method: Surveys/Questionnaires
-(B) We used this method because it is easy, effecient, and low cost way to gather data on potential users.
-(C) Total: 18 Responses
+* (A) Method: Surveys/Questionnaires
+* (B) We used this method because it is easy, effecient, and low cost way to gather data on potential users.
+* (C) Total: 18 Responses
 
 ## Findings
-![alt text](Screen Shot 2020-04-11 at 4.00.44 AM.png)
-![alt text](Screen Shot 2020-04-11 at 4.00.50 AM.png)
-![alt text](Screen Shot 2020-04-11 at 4.01.20 AM.png)
+ ![alt text](Screen Shot 2020-04-11 at 4.00.44 AM.png)
+ ![alt text](Screen Shot 2020-04-11 at 4.00.50 AM.png)
+ ![alt text](Screen Shot 2020-04-11 at 4.01.20 AM.png)
 
 According to our pie charts, majority of our survey takers are young adults who are graduating from college soon who mostly have GPA’s ranging from 2.1-3.0 And prefer to pay $0 for tutoring services.
 
-![alt text](Screen Shot 2020-04-11 at 4.01.11 AM.png)
+ ![alt text](Screen Shot 2020-04-11 at 4.01.11 AM.png)
 
 Our bar charts indicate that the majority of our users prefer to be tutored individually plus they don’t have enough time to look for a tutor when needed.
 
-![alt text](Screen Shot 2020-04-11 at 9.06.59 PM.png)
+ ![alt text](Screen Shot 2020-04-11 at 9.06.59 PM.png)
 
 Our suggestions responses dictate that users want a quick and efficient way to finding a tutor without doing too much.
 
