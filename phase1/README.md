@@ -12,11 +12,11 @@
 ## Findings
 ![alt text](phase1/Age,Year.png)
 ![alt text](phase1/GPA.png)
-![alt text](phase1/Pay for tutoring.png)
+![alt text](phase1/Pay.png)
 
 According to our pie charts, majority of our survey takers are young adults who are graduating from college soon who mostly have GPA’s ranging from 2.1-3.0 And prefer to pay $0 for tutoring services.
 
-![alt text](phase1/Bar Charts.png)
+![alt text](phase1/Bar_Charts.png)
 
 Our bar charts indicate that the majority of our users prefer to be tutored individually plus they don’t have enough time to look for a tutor when needed.
 
