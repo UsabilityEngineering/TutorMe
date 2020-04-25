@@ -1,5 +1,5 @@
 # TutorMe
-## Phase 2: Interaction Design
+## Interaction Design
 
 **Jozzel Esqueda**
 
