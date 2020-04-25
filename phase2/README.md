@@ -7,7 +7,7 @@
 https://xd.adobe.com/view/ff99c1af-2d67-4a75-4ae4-985a8feada83-89a8/
 
 ## Phase II: User-Centered Design
-**Screen Views:**
+**Screen Views for Tutoree:**
 
 <img src="phase2/MainScreen.png" alt="Login Screen" width="200"/>
 When opening TutorMe from your smart phone, the main screen will ask for your login credentials. You have 2 options: 
@@ -66,7 +66,15 @@ Once clicking on the tutor, his profile will appear.
 On the upper right corner, you have the option to message him.
 After clicking the message button, you will be able write them a message.
 
+**Screen Views for Tutor:**
+
+Let's say you wanted to sign up to be a tutor:
+<img src="phase2/3.1Become_Or_FindTutor.png" alt="Become a Tutor" width="200"/>
+Click on the *Become a Tutor* buttion.
+
+<img src="phase2/4.2Tutor_Process.png" alt="Info and Availabilty" width="200"/>
+Once filling out all your info and availabilty to tutor, you will be redirected to yout profile/account.
 
 
-
-
+<img src="phase2/5.2Tutor_Profile.png" alt="Tutor Profile" width="200"/>
+Profile screen displays your availabilty chart and profile pic.
