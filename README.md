@@ -14,6 +14,8 @@ Introduction - Need a tutor? Based on your major and current classes you're taki
 
 [Full phase 1 report](phase1/)
 
+[Full phase 2 report](phase2/)
+
 ## Phase 2: Interaction Design
 
 *Coming soon*
