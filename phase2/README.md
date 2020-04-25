@@ -70,7 +70,7 @@ On the upper right corner, you have the option to message him.
 After clicking the message button, you will be able write them a message.
 
 
-<img src="Inbox.png.png" alt="Inbox" width="300"/>
+<img src="10.Inbox.png" alt="Inbox" width="300"/>
 To check your messages, you would click the button with the 3 lines on the upper right corner, click messages, and your inbox will show.
 
 **Screen Views for Tutor:**
