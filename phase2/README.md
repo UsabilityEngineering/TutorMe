@@ -9,10 +9,11 @@ https://xd.adobe.com/view/ff99c1af-2d67-4a75-4ae4-985a8feada83-89a8/
 ## Phase II: User-Centered Design
 **Screen Views for Tutoree:**
 
-<img src="phase2/MainScreen.png" alt="Login Screen" width="200"/>
+<img src="MainScreen.png" alt="Login Screen" width="200"/>
 When opening TutorMe from your smart phone, the main screen will ask for your login credentials. You have 2 options: 
-* 1) You can login
-* 2) Or you can Sign Up
+
+1) You can login
+2) Or you can Sign Up
 
 For the sake of new users, let's sign up!
   
@@ -23,8 +24,9 @@ After logging in:
 
 <img src="phase2/3.1Become_Or_FindTutor.png" alt="Find a Tutor" width="200"/>
 Users have 2 options:
-* 1) Become a Tutor
-* 2) Find a Tutor
+
+1) Become a Tutor
+2) Find a Tutor
 
 Let's find a tutor!
 
