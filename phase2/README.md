@@ -68,8 +68,9 @@ After clicking the message button, you will be able write them a message.
 
 **Screen Views for Tutor:**
 
-Let's say you wanted to sign up to be a tutor:
 <img src="phase2/3.1Become_Or_FindTutor.png" alt="Become a Tutor" width="200"/>
+
+Let's say you wanted to sign up to be a tutor:
 Click on the *Become a Tutor* buttion.
 
 <img src="phase2/4.2Tutor_Process.png" alt="Info and Availabilty" width="200"/>
