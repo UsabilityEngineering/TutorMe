@@ -17,7 +17,7 @@ When opening TutorMe from your smart phone, the main screen will ask for your lo
 
 For the sake of new users, let's sign up!
   
-<img src="2.1SignUp&ClickLink.png" alt="Sign Up" width="300"/>
+<img src="2.1SignUp&ClickLink.png" alt="Sign Up" width="500"/>
 Once you input your information, you will receive an email from TutorMe, and upon clicking on the link,it will redirect you back to the login screen.
 After logging in:
 
@@ -31,7 +31,7 @@ Users have 2 options:
 Let's find a tutor!
 
 
-<img src="4.1Input_info_Tutoree.png" alt="Input Info" width="1000"/>
+<img src="4.1Input_info_Tutoree.png" alt="Input Info" width="300"/>
 In this step, we want to add all the classes enrolled for the semester. 
 This feature was added based on our user data suggestion responses.
  
