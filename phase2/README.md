@@ -17,7 +17,7 @@ When opening TutorMe from your smart phone, the main screen will ask for your lo
 
 For the sake of new users, let's sign up!
   
-<img src="2.1SignUp&ClickLink.png" alt="Sign Up" width="500"/>
+<img src="2.1SignUp&ClickLink.png" alt="Sign Up" width="600"/>
 Once you input your information, you will receive an email from TutorMe, and upon clicking on the link,it will redirect you back to the login screen.
 After logging in:
 
