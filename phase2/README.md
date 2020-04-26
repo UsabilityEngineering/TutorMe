@@ -31,7 +31,7 @@ Users have 2 options:
 Let's find a tutor!
 
 
-<img src="4.1Input_info_Tutoree.png" alt="Input Info" width="500"/>
+<img src="4.1Input_info_Tutoree.png" alt="Input Info" width="1000"/>
 In this step, we want to add all the classes enrolled for the semester. 
 This feature was added based on our user data suggestion responses.
  
