@@ -10,7 +10,7 @@ Introduction - Need a tutor? TutorMe will connect you to the ideal tutor based o
 
 * Executive Summary of methods: Google Survey
 * data gathered: Users want a quick and effecient way of finding a tutor.
-* and most important outcomes: To provide helpful tutors to people who have timeconstraints.
+* Most important outcomes: To provide helpful tutors to people who have timeconstraints.
 
 [Full phase 1 report](phase1/)
 
