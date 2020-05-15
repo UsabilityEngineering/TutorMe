@@ -1,6 +1,6 @@
 # TutorMe
 
-Introduction - Need a tutor? Based on your major and current classes you're taking, TutorMe will connect you to a tutor fast!
+Introduction - Need a tutor? TutorMe will connect you to the ideal tutor based on your major and current class schedule. 
 ## Team Members
 
 * **Jozzel Esqueda** - Summary of contributions
