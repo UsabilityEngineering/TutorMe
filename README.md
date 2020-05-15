@@ -4,7 +4,7 @@ Introduction - Need a tutor? Based on your major and current classes you're taki
 ## Team Members
 
 * **Jozzel Esqueda** - Summary of contributions
-* **Peter Menzies** - Summary of contributions
+
 
 ## Phase 1: User Inquiry and Inspection
 
