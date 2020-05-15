@@ -3,7 +3,7 @@
 Introduction - Need a tutor? TutorMe will connect you to the ideal tutor based on your major and current class schedule. 
 ## Team Members
 
-* **Jozzel Esqueda** - 
+* **Jozzel Esqueda** - https://usabilityengineering.github.io/uxportfolio-jozzel/
 
 
 ## Phase 1: User Inquiry and Inspection
