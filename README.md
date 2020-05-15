@@ -22,4 +22,4 @@ Introduction - Need a tutor? TutorMe will connect you to the ideal tutor based o
 
 ## Phase 3: Usability Evaluation
 
-*Coming Soon*
+[Full phase 3 report](phase3/)
