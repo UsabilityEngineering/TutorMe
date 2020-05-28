@@ -19,7 +19,7 @@
 
 ## Phase 2: Interaction Design
 
-* Executive Summary: Based on our survey results we translated our conclusions from our initial user research to a conceptual design incorporating the users' needs. The phase contains wireframes and prototype draft.
+* Executive Summary: Based on our survey results we translated our conclusions from our initial user research to a conceptual design incorporating the users' needs. The phase contains wireframes and a prototype draft.
 
 [Full phase 2 report](phase2/)
 
