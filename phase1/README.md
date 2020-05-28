@@ -33,7 +33,7 @@ These implementations are based on our suggestion responses.
 
 ## Caveats
 
-Because our sample size was not large enough to include students from other backgrounds/majors, TutorMe may not develop its full potential to being revolutionary.
+Because our sample size was not large enough to include students from other backgrounds/majors, TutorMe may not include extra needs that other users may have.
 
 # Personas
 
