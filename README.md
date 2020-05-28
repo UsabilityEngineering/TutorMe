@@ -25,6 +25,6 @@
 
 ## Phase 3: Usability Evaluation
 
-* Executive Summary: This phase consists of our highest fidelity prototype and a protocol for user testing. The protocol is a script with instructions so that the moderator can follow as well as field for data collection. The final protype is so that the user can have a more real user experience while using the application.
+* Executive Summary: This phase consists of our highest fidelity prototype and a protocol for user testing. The protocol is a script with instructions so that the moderator can follow as well as field for data collection. The final protype was designed such that the user can have a more authentic user experience while using the application.
 
 [Full phase 3 report](phase3/)
