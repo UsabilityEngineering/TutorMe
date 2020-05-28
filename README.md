@@ -3,7 +3,7 @@
 Introduction - Need a tutor? TutorMe will connect you to the ideal tutor based on your major and current class schedule. 
 ## Team Members
 
-* **Jozzel Esqueda** - Summary of contributions
+* **Jozzel Esqueda** - https://usabilityengineering.github.io/uxportfolio-jozzel/
 
 
 ## Phase 1: User Inquiry and Inspection
@@ -18,8 +18,12 @@ Introduction - Need a tutor? TutorMe will connect you to the ideal tutor based o
 
 ## Phase 2: Interaction Design
 
+* Executive Summary: Based on our survey results we translated our conclusions from our initial user research to a conceptual design incorporating the users' needs. The phase contains wireframes and prototype draft.
+
 [Full phase 2 report](phase2/)
 
 ## Phase 3: Usability Evaluation
+
+* Executive Summary: This phase consists of our highest fidelity prototype and a protocol for user testing. The protocol is a script with instructions so that the moderator can follow as well as field for data collection. The final protype is so that the user can have a more real user experience while using the application.
 
 [Full phase 3 report](phase3/)
